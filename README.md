@@ -1,6 +1,6 @@
 # vue-cesium-example
 
-![vue-cesium-example(https://user-images.githubusercontent.com/51536312/90951921-de593300-e491-11ea-94b5-17dc26f8ab1e.gif)
+![vue-cesium-example](https://user-images.githubusercontent.com/51536312/90951921-de593300-e491-11ea-94b5-17dc26f8ab1e.gif)
 
 ## Project setup
 
