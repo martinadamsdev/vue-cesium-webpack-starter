@@ -1,7 +1,8 @@
 # vue-cesium-example
 
 
-![vue-cesium-example](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/49f5708dd995436294560bc2a8c62fda~tplv-k3u1fbpfcp-zoom-1.image)
+![vue-cesium-example](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/49f5708dd995436294560bc2a8c62fda~tplv-k3u1fbpfcp-zoom-1.gif)
+![](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/49f5708dd995436294560bc2a8c62fda~tplv-k3u1fbpfcp-zoom-1.gif)
 
 
 ## Project setup
