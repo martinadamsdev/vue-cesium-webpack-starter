@@ -5,6 +5,13 @@
 
 
 ## Project setup
+
+### use
+
+```
+git clone git@github.com:martinageradams/vue-cesium-example.git
+```
+
 ```
 yarn install
 ```
