@@ -3,6 +3,8 @@ const CopyWebpackPlugin = require("copy-webpack-plugin");
 const webpack = require("webpack");
 
 module.exports = {
+  publicPath:
+    process.env.NODE_ENV === "production" ? "/\n" + "vue-cesium-example/" : "/",
   configureWebpack: {
     plugins: [
       // Copy Cesium Assets, Widgets, and Workers to a static directory
