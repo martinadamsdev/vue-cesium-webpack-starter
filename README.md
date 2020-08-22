@@ -1,7 +1,7 @@
 # vue-cesium-example
 
 
-![vue-cesium-example](https://user-images.githubusercontent.com/51536312/90951681-76095200-e48f-11ea-940c-ffc87314314d.gif)
+![vue-cesium-example](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/49f5708dd995436294560bc2a8c62fda~tplv-k3u1fbpfcp-zoom-1.image)
 
 
 ## Project setup
