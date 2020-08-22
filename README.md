@@ -1,4 +1,4 @@
-# earth
+# vue-cesium-example
 
 ## Project setup
 ```
