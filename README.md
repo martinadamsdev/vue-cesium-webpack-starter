@@ -1,5 +1,9 @@
 # vue-cesium-example
 
+
+![vue-cesium-example](https://user-images.githubusercontent.com/51536312/90951681-76095200-e48f-11ea-940c-ffc87314314d.gif)
+
+
 ## Project setup
 ```
 yarn install
@@ -27,7 +31,7 @@ yarn lint
 
 ### vue.config.js
 
-```
+```js
 // vue.config.js
 const CopyWebpackPlugin = require("copy-webpack-plugin");
 const webpack = require("webpack");
@@ -64,7 +68,7 @@ module.exports = {
 
 ### Map.vue
 
-```
+```vue
 <template>
   <div id="cesiumContainer"></div>
 </template>
