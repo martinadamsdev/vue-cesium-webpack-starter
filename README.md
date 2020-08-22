@@ -1,6 +1,6 @@
-# vue-cesium-example
+![Vue Cesium](https://user-images.githubusercontent.com/51536312/90954910-6992f280-e4ab-11ea-9ebb-34a8063ca9e8.png)
 
-![vue-cesium-example](https://user-images.githubusercontent.com/51536312/90951921-de593300-e491-11ea-94b5-17dc26f8ab1e.gif)
+![Vue Cesium](https://user-images.githubusercontent.com/51536312/90951921-de593300-e491-11ea-94b5-17dc26f8ab1e.gif)
 
 ## Project setup
 
@@ -129,5 +129,8 @@ export default {
 </style>
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 博客
+
+[Vue Cli 4 引入 Cesium 配置](https://www.1024.cool/vue/vue-cli-4-import-cesium.html)
+
+![](https://open.weixin.qq.com/qr/code?username=gh_11f860dcf461)
