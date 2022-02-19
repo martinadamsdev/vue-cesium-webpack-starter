@@ -131,4 +131,5 @@ export default {
 ```
 
 ## WeChat Official Accounts
-<p align="center"><img src="https://open.weixin.qq.com/qr/code?username=gh_11f860dcf461" width="200" /></p>
+
+<img src="https://open.weixin.qq.com/qr/code?username=gh_11f860dcf461" width="200" />
