@@ -130,8 +130,5 @@ export default {
 </style>
 ```
 
-### 博客
-
-[Vue Cli 4 引入 Cesium 配置](https://www.1024.cool/vue/vue-cli-4-import-cesium.html)
-
-<p align="center"><img src="https://open.weixin.qq.com/qr/code?username=gh_11f860dcf461" width="200" /> </p>
+## WeChat Official Accounts
+<p align="center"><img src="https://open.weixin.qq.com/qr/code?username=gh_11f860dcf461" width="200" /></p>
