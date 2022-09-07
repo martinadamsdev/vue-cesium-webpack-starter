@@ -7,7 +7,7 @@ import "cesium/Build/Cesium/Widgets/widgets.css";
 import * as Cesium from "cesium";
 
 export default {
-  name: "Map",
+  name: "CesiumViewer",
   mounted() {
     this.init();
   },
@@ -18,7 +18,7 @@ export default {
       let imageryLayers = viewer.imageryLayers;
 
       let googleMap = new Cesium.UrlTemplateImageryProvider({
-        url: "http://www.google.com/maps/vt?lyrs=s@716&x={x}&y={y}&z={z}"
+        url: "http://www.google.com/maps/vt?lyrs=s@716&x={x}&y={y}&z={z}",
       });
 
       imageryLayers.addImageryProvider(googleMap);
@@ -33,12 +33,12 @@ export default {
         orientation: {
           heading: Cesium.Math.toRadians(0),
           pitch: Cesium.Math.toRadians(-90),
-          roll: 0.0
+          roll: 0.0,
         },
-        duration: 10 // fly time 10s
+        duration: 10, // fly time 10s
       });
-    }
-  }
+    },
+  },
 };
 </script>
 

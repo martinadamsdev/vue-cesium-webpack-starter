@@ -7,12 +7,13 @@ const routes = [
   {
     path: "/",
     name: "Map",
-    component: () => import(/* webpackChunkName: "map" */ "../views/Map.vue")
-  }
+    component: () =>
+      import(/* webpackChunkName: "map" */ "../views/CesiumViewer.vue"),
+  },
 ];
 
 const router = new VueRouter({
-  routes
+  routes,
 });
 
 export default router;
