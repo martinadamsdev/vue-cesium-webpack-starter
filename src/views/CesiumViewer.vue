@@ -28,7 +28,7 @@ export default {
         destination: Cesium.Cartesian3.fromDegrees(
           114.296063,
           30.55245,
-          20000000
+          20000000,
         ),
         orientation: {
           heading: Cesium.Math.toRadians(0),
